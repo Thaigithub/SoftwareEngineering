@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\RestaurantPOS.csproj",
+  "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\RestaurantPOS.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,113 +14402,113 @@
   "RootNamespace": "RestaurantPOS",
   "Documents": [
     {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\Payment.cshtml",
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\Payment.cshtml",
       "TargetPath": "Views\\Home\\Payment.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Menu\\Details.cshtml",
-      "TargetPath": "Views\\Menu\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Menu\\MenuFood.cshtml",
-      "TargetPath": "Views\\Menu\\MenuFood.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\PaymentDetailHistory.cshtml",
-      "TargetPath": "Views\\Home\\PaymentDetailHistory.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\ShowToCart.cshtml",
-      "TargetPath": "Views\\Home\\ShowToCart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Reservation\\BookTable.cshtml",
-      "TargetPath": "Views\\Reservation\\BookTable.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\TableOrderedHistory.cshtml",
-      "TargetPath": "Views\\Home\\TableOrderedHistory.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\ResetPassword\\ResetPasswordSuccess.cshtml",
-      "TargetPath": "Views\\ResetPassword\\ResetPasswordSuccess.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\ResetPassword\\ResetPasswordHandle.cshtml",
-      "TargetPath": "Views\\ResetPassword\\ResetPasswordHandle.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\Register.cshtml",
-      "TargetPath": "Views\\Home\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\ResetPassword.cshtml",
-      "TargetPath": "Views\\Home\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\ResetPassword\\Index.cshtml",
-      "TargetPath": "Views\\ResetPassword\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\ResetPassword\\SendMailResetPasswordSuccess.cshtml",
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\ResetPassword\\SendMailResetPasswordSuccess.cshtml",
       "TargetPath": "Views\\ResetPassword\\SendMailResetPasswordSuccess.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\_ViewImports.cshtml",
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\Assignment reference\\RestaurantPOS-main\\RestaurantPOS-main\\RestaurantPOS\\Views\\Home\\PaymentHistory.cshtml",
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\Register.cshtml",
+      "TargetPath": "Views\\Home\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\ResetPassword.cshtml",
+      "TargetPath": "Views\\Home\\ResetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Menu\\Details.cshtml",
+      "TargetPath": "Views\\Menu\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\ResetPassword\\ResetPasswordHandle.cshtml",
+      "TargetPath": "Views\\ResetPassword\\ResetPasswordHandle.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\PaymentHistory.cshtml",
       "TargetPath": "Views\\Home\\PaymentHistory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\PaymentDetailHistory.cshtml",
+      "TargetPath": "Views\\Home\\PaymentDetailHistory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\ResetPassword\\Index.cshtml",
+      "TargetPath": "Views\\ResetPassword\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\ResetPassword\\ResetPasswordSuccess.cshtml",
+      "TargetPath": "Views\\ResetPassword\\ResetPasswordSuccess.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Reservation\\BookTable.cshtml",
+      "TargetPath": "Views\\Reservation\\BookTable.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\TableOrderedHistory.cshtml",
+      "TargetPath": "Views\\Home\\TableOrderedHistory.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Menu\\MenuFood.cshtml",
+      "TargetPath": "Views\\Menu\\MenuFood.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\ShowToCart.cshtml",
+      "TargetPath": "Views\\Home\\ShowToCart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\EDUCATION\\Bach Khoa University\\HK212\\Software engineering\\SoftwareEngineering\\RestaurantPOS\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
     }
   ],
