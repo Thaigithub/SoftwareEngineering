@@ -18,7 +18,7 @@
 }
 @model ListBookInfoViewModel
 @{
- if (!SignInManager.IsSignedIn(User) || (await UserManager.GetUserAsync(User)).VIP)
+ if (SignInManager.IsSignedIn(User))
  {
 <div id="reservation" class="section">
   <!-- Backgound Image -->
@@ -208,11 +208,6 @@
   </div>
 </div>
 
-    }
-    else
-    {
-       <div class="text-center" style="color:black;font-weight: 700;margin-bottom: 100px;margin-top: 100px;margin-left: 70px;margin-right: 70px;font-size: 22px;">Xin lỗi quý khách, tính năng này chỉ dành cho khách hàng đã thanh toán hóa đơn
-       <br>trên 10 lần tại nhà hàng chúng tôi!!!</div>
     }
 }
 @section Scripts{

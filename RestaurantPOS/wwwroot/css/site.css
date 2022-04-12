@@ -357,7 +357,7 @@ textarea.input {
 /*************************** LOGIN PAGE ***************************/
 /******************************************************************/
 .login-page {
-    background-image: url("http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg");
+    background-image: url("https://getwallpapers.com/wallpaper/full/3/2/5/1148691-free-food-wallpaper-themes-1920x1200-pc.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -457,7 +457,7 @@ input:focus {
 #top-header {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #1E1F29;
+    background-color: #2b7238;
 }
 
 .header-links li {
@@ -491,7 +491,7 @@ input:focus {
 #header {
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: #15161D;
+    background-color: #093e12;
 }
 
 .header-logo {
@@ -666,7 +666,7 @@ input:focus {
 ===========================================================*/
 
 #footer {
-    background: #15161D;
+    background: #093e12;
     color: #B9BABC;
 }
 

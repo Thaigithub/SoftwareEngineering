@@ -301,13 +301,13 @@ button.finish-payment {
 }
 
 .payment {
-    background: url("../images/background_payment.jpg");
+    background: url("https://getwallpapers.com/wallpaper/full/8/3/e/198252.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: auto;
     padding-top: 50px;
     padding-bottom: 30px;
-    min-height: 657px !important;
+    min-height: 855px !important;
 }
     .payment .card {
         margin-bottom: 30px;
