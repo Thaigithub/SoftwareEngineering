@@ -65,7 +65,7 @@ namespace RestaurantPOS.Services
                 body = reader.ReadToEnd();
             }
 
-            var resetPasswordLink = "https://localhost:5001" + $"/ResetPasswordHandle/{customer.Id}";
+            var resetPasswordLink = _config.GetValue<string>("WebURL") + $"/ResetPasswordHandle/{customer.Id}";
             body = body.Replace("[customer_full_name]", customer.FullName);
             body = body.Replace("[reset_password_link]", resetPasswordLink);
             body = body.Replace("[current_year]", DateTime.Now.Year.ToString());
