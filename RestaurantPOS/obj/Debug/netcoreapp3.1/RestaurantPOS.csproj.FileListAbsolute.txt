@@ -169,7 +169,6 @@ E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment referenc
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\Assignment reference\RestaurantPOS-main\RestaurantPOS-main\RestaurantPOS\obj\Debug\netcoreapp3.1\RestaurantPOS.csprojAssemblyReference.cache
-E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\appsettings.json
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\EDUCATION\Bach Khoa University\HK212\Software engineering\SoftwareEngineering\RestaurantPOS\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
