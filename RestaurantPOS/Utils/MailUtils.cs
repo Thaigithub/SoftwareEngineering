@@ -28,8 +28,8 @@ namespace RestaurantPOS.Utils
                 await client.SendMailAsync(message);
                 return true;
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
+                
                 return false;
             }
         }
