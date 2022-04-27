@@ -4,7 +4,7 @@ RestaurantPOS
 
 Overleaf: https://www.overleaf.com/9617115955zjvrwzhybffz
 
-In order to run:
+In order to run (Installed needed extensions already):
 
 Step 1: Install Dotnet version 3.1 from https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.100-windows-x64-installer
 
